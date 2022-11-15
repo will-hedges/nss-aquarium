@@ -1,0 +1,29 @@
+
+header {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+article {
+    border: 2px solid black;
+}
+
+h2 {
+    text-align: center;
+}
+
+.hero {
+    display: flex;
+    justify-content: space-around;
+}
+
+.column-left {
+    width: 50%;
+}
+
+.column-right {
+    width: 25%;
+    align-items: center;
+    border: 2px solid black;
+}
